@@ -1,2 +1,4 @@
 github.com/lakhansamani/go-test-lib v0.0.0-20240904065301-a0ef12e3b21e h1:FeLDfrYWlCVfuof567O/UX2Z7TLDZEd/h3kMiBHSSbQ=
 github.com/lakhansamani/go-test-lib v0.0.0-20240904065301-a0ef12e3b21e/go.mod h1:ciYKLSXWgE9J03glJdUnKVWLWOpP8ZRXW+zAdMXeXBo=
+github.com/lakhansamani/go-test-lib v1.0.0 h1:JA+FppgT9TrKIVN19DZTkerw3hdZg5q4nJbLEQhv/xA=
+github.com/lakhansamani/go-test-lib v1.0.0/go.mod h1:ciYKLSXWgE9J03glJdUnKVWLWOpP8ZRXW+zAdMXeXBo=
